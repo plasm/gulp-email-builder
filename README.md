@@ -16,7 +16,7 @@ npm install -g gulp
 ```
 
 ### Running in the browser
-Runs an initial build (development), listens on your files changes, rebuilds them when necessary
+Runs an initial build, listens on your files changes, rebuilds them when necessary
 and automagically reloads the browser!
 
 ### For development
